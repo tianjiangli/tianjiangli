@@ -1,3 +1,3 @@
 ImportError: cannot import name 'Lunar' from 'sxtwl'
-在sxtwl由版本1.1.0 升级到版本2（同时电脑和anaconda升级)后出现的问题。
+在sxtwl由版本1.1.0 升级到版本2.0.4（同时电脑和anaconda升级)后出现的问题。
 目前不知道什么原因，较低版本时是可以正常使用的。
